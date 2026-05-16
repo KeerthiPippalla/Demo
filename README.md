@@ -15,3 +15,4 @@ Git Demo
 #Branching
 ##This is done by part3 branch.
 ##part3 discusses about feature branch and hotfix branch.
+##MERGECONFLICT
