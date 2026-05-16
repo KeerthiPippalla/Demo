@@ -1,7 +1,15 @@
 #DEMO
 Git Demo
-#CLONE
-#Update
-#Add
-#Commit
-#Push
+#First part
+##CLONE
+##Update
+##Add
+##Commit
+##Push
+#Second Part
+##init
+##add
+##commit
+##COnnect
+##push
+#Branching
